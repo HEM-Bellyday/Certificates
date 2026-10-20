@@ -6,7 +6,7 @@ A clean, simple home for my certificates in programming, finance, and applied AI
 
 [![View Live](https://img.shields.io/badge/View%20Live-1F4FD8?style=for-the-badge&logo=githubpages&logoColor=white)](https://your-username.github.io/certificates/)
 ![HTML](https://img.shields.io/badge/HTML-0E2A5C?style=for-the-badge&logo=html5&logoColor=white)
-![Certificates](https://img.shields.io/badge/Certificates-5-1F4FD8?style=for-the-badge)
+![Certificates](https://img.shields.io/badge/Certificates-6-1F4FD8?style=for-the-badge)
 
 </div>
 
