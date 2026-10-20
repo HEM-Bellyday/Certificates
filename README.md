@@ -21,6 +21,7 @@ A clean, simple home for my certificates in programming, finance, and applied AI
 | **Financial Decision Analysis** | Finance | [View](certificates/Financial_Decision_Analysis.pdf) |
 | **AI Farm** | Artificial intelligence | [View](certificates/AI_Farm.pdf) |
 | **Certificate** | General | [View](certificates/Bellyday%20HEM.pdf) |
+| **Certificate** | General | [View](certificates/Scientific_day.jpg) |
 
 ---
 
